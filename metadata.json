@@ -1,0 +1,8 @@
+{
+  "name": "CellAR: Augmented Reality Cell Explorer & Game",
+  "description": "Interactive Augmented Reality (AR) game and 3D simulation to explore plant and animal cell organelles and master their biological functions.",
+  "requestFramePermissions": [
+    "camera"
+  ],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
